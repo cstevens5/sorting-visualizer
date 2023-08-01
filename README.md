@@ -10,7 +10,7 @@ This project is a visualization of some basic sorting algorithms written in pyth
 
 Bubble sort is a sorting algorithm that works by comparing adjacent elements in the list that being sorted. If the elements are out of order with respect to each other, then they are swapped. Bubble sort is a stable and in place sorting algorithm.
 
-Time Complexity:
+<u>Time Complexity:</u>
 Best Case - $O(n)$
 
 Average Case - $O(n^2)$
@@ -19,14 +19,14 @@ Worst Case - $O(n^2)$
 
 where n represents the size of the list being sorted
 
-Space Complexity:
+<u>Space Complexity:</u>
 $O(1)$
 
 ## Insertion Sort
 
 Insertion sort is a comparison based sorting algorithm that sorts the array one element at a time. The sorted array is built by comparing array elements and placing one element in it's sorted position for each iteration. Insertion sort is a stable and an in place algorithm.
 
-Time Complexity:
+<u>Time Complexity:</u>
 
 Best Case - $O(n)$
 
@@ -34,14 +34,14 @@ Average Case - $O(n^2)$
 
 Worst Case - $O(n^2)$
 
-Space Complexity:
+<u>Space Complexity:</u>
 $O(1)$
 
 ## Selection Sort
 
 Selection sort is a comparison based sorting algorithm. The algorithm starts by finding the minimum/maximum element in the array and swapping it with the first element. The same process is then repeated with the second, third, fourth, etc. elements until the array is finally sorted. Selection sort is a stable and in place sorting algorithm.
 
-Time Complexity:
+<u>Time Complexity:</u>
 
 Best Case - $O(n^2)$
 
@@ -49,7 +49,7 @@ Average Case - $O(n^2)$
 
 Worst Case - $O(n^2)$
 
-Space Complexity:
+<u>Space Complexity:</u>
 $O(1)$
 
 ## Installation
